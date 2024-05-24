@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-equasym---primary.py
+inputModule3:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-lisdexamfetamine---primary.py
+inputModule5:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-concerta---primary.py
+inputModule6:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-medikinet---primary.py
+inputModule7:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-methylphenidate---primary.py
+inputModule8:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-strattera---primary.py
+inputModule9:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-durophet---primary.py
+inputModule10:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-elvanse---primary.py
+inputModule11:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-solution---primary.py
+inputModule12:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-atomoxetine---primary.py
+inputModule13:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-dexedrine---primary.py
+inputModule14:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-tranquilyn---primary.py
+inputModule15:
+  class: File
+  path: python/attention-deficithyperactivity-disorder-adhd-prod-codes-tablet---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
